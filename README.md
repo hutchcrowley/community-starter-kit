@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This is a friendly helper bot that will welcome new users to YOUR repository!
 
 ## What it does
 
-FEATURES PLACEHOLDER
+This app automatically welcomes any new users that fork your repository. It is intended to be useful for most repositories while still being easy to grok for new users.
 
 ## Getting started
 
